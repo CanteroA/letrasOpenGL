@@ -1,0 +1,22 @@
+Z:\Diseño Herramientas Graficas I\Laboratorio 1\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.exe
+Z:\Diseño Herramientas Graficas I\Laboratorio 1\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.pdb
+D:\Kevint\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.exe
+D:\Kevint\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.pdb
+D:\Kevint\Computacion Grafica Primitivas 201402\bin\Debug\ComputacionGraficaPrimitivas.exe
+D:\Kevint\Computacion Grafica Primitivas 201402\bin\Debug\ComputacionGraficaPrimitivas.pdb
+D:\Kevint\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.csprojResolveAssemblyReference.cache
+D:\Kevint\Computacion Grafica Primitivas 201402\obj\Debug\OpenGL.BaseGLControl.resources
+D:\Kevint\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.MainForm.resources
+D:\Kevint\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.Properties.Resources.resources
+D:\Kevint\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.Primitivas.resources
+D:\Kevint\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.csproj.GenerateResource.Cache
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.exe
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.pdb
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\bin\Debug\ComputacionGraficaPrimitivas.exe
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\bin\Debug\ComputacionGraficaPrimitivas.pdb
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\OpenGL.BaseGLControl.resources
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.MainForm.resources
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.Properties.Resources.resources
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.Primitivas.resources
+C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.csproj.GenerateResource.Cache
