@@ -20,3 +20,5 @@ C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\Com
 C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.Properties.Resources.resources
 C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.Primitivas.resources
 C:\Users\juan\Documents\MEGA\Computacion Grafica Primitivas 201402\obj\Debug\ComputacionGraficaPrimitivas.csproj.GenerateResource.Cache
+U:\openGL\obj\Debug\ComputacionGraficaPrimitivas.exe
+U:\openGL\obj\Debug\ComputacionGraficaPrimitivas.pdb
